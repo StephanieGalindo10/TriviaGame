@@ -1,16 +1,16 @@
 
 h1, .jumbotron {
-	text-align: center;
-	font-family:color: #424242;
-    font-family: "Adobe Caslon Pro", "Hoefler Text", Georgia, Garamond, Times, serif;
-letter-spacing:0.1em;
-text-align:center;
+text-align: center;
+color: #424242;
+font-family: "Adobe Caslon Pro", "Hoefler Text", Georgia, Garamond, Times, serif;
+letter-spacing: 0.1em;
+text-align: center;
 margin: 40px auto;
 text-transform: lowercase;
 line-height: 145%;
 font-size: 14pt;
 font-variant: small-caps;
-	color:white;
+	color: white;
 }
 
 body {
@@ -46,7 +46,7 @@ img {
 	width: 400px;
 	height: 400px;
 }
-//buttoncommands list//
+/* //buttoncommands list// */
 .btn:hover, 
 .btn:focus, 
 .btn:active, 
