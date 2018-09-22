@@ -15,36 +15,38 @@ font-variant: small-caps;
 
 body {
 	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    text-align: center;
-    color:white
-    }
+  text-align: center;
+  color:white
+}
 
 
-    .jumbotron {
-        background-image:url(https://parentesis.com/imagesPosts/HarryPotter-g);
-        height:290px;
-        width:1145px;
-    }
+.jumbotron {
+    background-image:url(https://parentesis.com/imagesPosts/HarryPotter-g);
+    height:290px;
+    width:1145px;
+}
 
 
-    .btn {   
-     font-family: cursive;
-      height: 100px;
-      width: 200px;
-      font-size: 30px;
+.btn {   
+  font-family: cursive;
+  height: 100px;
+  width: 200px;
+  font-size: 30px;
 
-      color: goldenrod;
-      background-image: url(https://i.pinimg.com/236x/9c/61/22/9c61222f9620d862692a65413b6de1c7--background-images-iphone-backgrounds.jpg);
-        
-    }
-    img {
-      cursor:pointer;
-  }
+  color: goldenrod;
+  background-image: url(https://i.pinimg.com/236x/9c/61/22/9c61222f9620d862692a65413b6de1c7--background-images-iphone-backgrounds.jpg);
+    
+}
+
+img {
+  cursor:pointer;
+  width: 400px;
+	height: 400px;
+}
 
 
 img {
-	width: 400px;
-	height: 400px;
+	
 }
 /* //buttoncommands list// */
 .btn:hover, 
