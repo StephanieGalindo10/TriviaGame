@@ -1,6 +1,6 @@
 # TriviaGame
 Trivia Game
-
+Live Link :  https://stephaniegalindo10.github.io/TriviaGame/
 Harry Potter World Trivia Game 
 I decided since I am a fan of Harry Potter to make a hard Trivia Game.
 
