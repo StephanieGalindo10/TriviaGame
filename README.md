@@ -1,10 +1,10 @@
 # TriviaGame
 Harry Potter Trivia Game :eyeglasses:
 
-# How it work 	:email:
+# How it work  :books:
 I created  Trivia game using JavaScript for the logic and jQuery to manipulate HTML. Be sure to layout this app with valid HTML and stylish CSS.
 
-## Theme
+## Theme 	:european_castle:
 * As a big fan of Harry Potter I wanted to make a trivia game that had question regarding the books and films.
 
 
